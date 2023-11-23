@@ -1,13 +1,14 @@
-.general-styles {
+.black,
+.yellow {
   font-family: Helvetica, "Times New Roman", sans-serif;
   font-size: 28px;
 }
 
-#first-button {
+.black {
   background-color: black;
   color: white;
 }
 
-#second-button {
+.yellow {
   background-color: yellow;
 }
